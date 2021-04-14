@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fIjGKa01OJeXOKW37zGKCu17m3c5IaFlAGYeicNECUFyN7bP5+3Q59a+Fm8N7fxhBhP68hHBQx0FZOjAI0mUIg==",
+  "dgSpecHash": "MT8STQlRFHhfmy2snbB+R2kgFNHyT3SsaTTM+USh55HEUqqRpRrPlLRGw7fJH3EzCqwOsau+/LDOQySVDtzIEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vladi\\source\\repos\\for_learn_C_Sharp\\TelegramBot\\TelegramBot.csproj",
+  "projectFilePath": "C:\\Users\\vladi\\source\\repos\\newsBot\\TelegramBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladi\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",

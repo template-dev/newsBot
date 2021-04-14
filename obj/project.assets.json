@@ -5778,11 +5778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladi\\source\\repos\\for_learn_C_Sharp\\TelegramBot\\TelegramBot.csproj",
+      "projectUniqueName": "C:\\Users\\vladi\\source\\repos\\newsBot\\TelegramBot.csproj",
       "projectName": "TelegramBot",
-      "projectPath": "C:\\Users\\vladi\\source\\repos\\for_learn_C_Sharp\\TelegramBot\\TelegramBot.csproj",
+      "projectPath": "C:\\Users\\vladi\\source\\repos\\newsBot\\TelegramBot.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladi\\source\\repos\\for_learn_C_Sharp\\TelegramBot\\obj\\",
+      "outputPath": "C:\\Users\\vladi\\source\\repos\\newsBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,3 +1,3 @@
 # newsBot
 Bot name - newsBot
-Commands:
+\nCommands:

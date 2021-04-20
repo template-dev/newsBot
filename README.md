@@ -1,3 +1,3 @@
 # newsBot
-Bot name - newsBot
-\nCommands:
+Bot name - newsBot.
+Commands:

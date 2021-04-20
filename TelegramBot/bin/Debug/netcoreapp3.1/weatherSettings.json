@@ -1,6 +1,0 @@
-{
-  "Settings": {
-    "Weather_Token": "0f85787d891693c8a7fc8755c5d1b313",
-    "Weather_Url": "http://api.openweathermap.org/data/2.5/weather?q="
-  }
-}

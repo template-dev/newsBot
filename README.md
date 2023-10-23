@@ -29,4 +29,4 @@
 14. /getnews_EuroNews - вывести актуальные новости - euronews.com
 15. /getgif - вывести случайную гифку
 
-База данных реализована на языке запросов SQL (MSSQL) в среде разработки Microsoft SQL Server Management Studio 18.
+База данных реализована на языке запросов SQL (T-SQL) в среде разработки Microsoft SQL Server Management Studio 18.
